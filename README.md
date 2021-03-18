@@ -13,3 +13,5 @@ In the asg_advanced.tf, it will cover:
   3. an autoscaling group using launch template with the features: instance refresh and interpolated tags
   4. an asg uses mixed Instances Policy using launch_template
   5. an asg with mixed Instances Policy using instances_distribution and capability rebalance
+
+You could see topology in the file graph.svg!
